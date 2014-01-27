@@ -1,7 +1,4 @@
-$! maegg/hello.com
-$ write sys$output "Hello ''p1' world"
-$ exit
-$ type loop.com
+$! maegg/loop.com
 $       count = 0
 $       open/write log loop.log
 $ loop:

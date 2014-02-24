@@ -12,6 +12,7 @@ $       home :== set def sys$login
 $       more :== type/page
 $       who :== show users
 $       sd :== show def
+$       syspriv :== "@sys$login:syspriv.com" 
 $
 $       gosub banner
 $       exit

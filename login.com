@@ -7,6 +7,7 @@ $       set term /insert
 $       set term /width=80
 $       set proc /units=bytes
 $       set prompt
+$       set control=(t,y)
 $
 $       clear :== type /page nl:
 $       home :== set def sys$login
